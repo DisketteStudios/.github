@@ -1,1 +1,3 @@
-# .github
+# Diskette Studios
+
+We make games.
